@@ -21,12 +21,12 @@ Your src directory should look something like so.
 
 - Run `docker compose up`
 
-###Link
+### Link
 
 The portal can be accesses from `http://localhost:8080`
 PhpMyAdmin can by accessed from `http://localhost:8081`
 
-###Database
+### Database
 host: host.docker.internal
 
 
